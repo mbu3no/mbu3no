@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full Stack & Analista de Dados | Estudante de Engenharia de Computação`**
 
-Sou graduando em Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI). 
+Graduando em Engenharia de Computação na Universidade Federal de Itajubá (UNIFEI). 
 
 Acredito na aplicação de conceitos práticos de engenharia para resolver problemas reais e impulsionar a inovação. Por isso, foco meus estudos no aprendizado técnico contínuo para construir sistemas eficientes e entregar resultados de alto impacto.
 
