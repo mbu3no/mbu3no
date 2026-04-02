@@ -6,7 +6,7 @@ Sou graduando em Engenharia de Computação na Universidade Federal de Itajubá 
 
 Acredito na aplicação de conceitos práticos de engenharia para resolver problemas reais e impulsionar a inovação. Por isso, foco meus estudos no aprendizado técnico contínuo para construir sistemas eficientes e entregar resultados de alto impacto.
 
-📊 Atualmente explorando: Java, C#, C++, Python, SQL, React e Node.js.
+📊 Atualmente explorando: JavaScript, Java, C#, C++, Python, SQL, React e Node.js.
 
 🛠️ Background técnico: Desenvolvimento de software (front-end e back-end), extração de insights e automação de dados (Python), além de gestão de projetos ágeis (Kanban e Scrum).
 
